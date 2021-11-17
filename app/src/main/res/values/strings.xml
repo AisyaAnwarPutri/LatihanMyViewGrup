@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Project Latihan</string>
+    <string name="text_rendang">Rendang atau randang\nadalah masakan daging\nbercita rasa pedas\nyang
+        mempergunakan\ncampuran dari berbagai\nbumbu dan rempah-rempah.\nMasakan ini dihasilkan\ndari bagian memasak\nyang dipanaskan berulang-\nulang
+        dengan santan kelapa.\nBagian memasaknya memakan\nwaktu berjam-jam\n
+        (biasanya sekitar empat jam)\nsampai kering dan\nberwarna hitam pekat.\n
+        Dalam suhu ruangan,\nrendang dapat bertahan\nsampai berminggu\n-minggu.
+        Rendang yang\ndimasak dalam waktu\nyang lebih singkat\ndan santannya
+        belum\nmengering dikata kalio,\nberwarna coklat terang\nkeemasan.</string>
+
+    <string name="text_dendeng">Dendeng balado adalah
+        \nmasakan khas Sumatera
+        \nBarat dibuat dari\nirisan tipis dan\nlebar daging sapi
+        \nyang dikeringkan lalu\ndigoreng kering.\nDaging goreng ini lalu
+        \ndiberi bumbu balado.
+        \nPerpaduan Dendeng\nBalado yang crunchy
+        \ndan bumbu balado dijamin
+        \nbikin makan anda
+        \nmenjadi lebih nikmat.</string>
+
+    <string name="kategori">Kategori</string>
+    <string name="makanan">Makanan</string>
+    <string name="harga">Harga</string>
+    <string name="asal">Asal Makanan</string>
+    <string name="asal_makanan">Sumatera Barat</string>
+    <string name="pengiriman">Layanan Pengiriman</string>
+    <string name="ya">YA</string>
+    <string name="tidak">TIDAK</string>
+
+    <string name="stock">Stock</string>
+    <string name="sisa_rendang">35</string>
+    <string name="sisa_dendeng">75</string>
+    <string name="display">Deskripsi</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Aisya Anwar Putri</string>
+    <string name="buy">Beli Sekarang!</string>
+    <string name="value_rendang">Rp. 55.000</string>
+    <string name="value_dendeng">Rp. 70.000</string>
+    <string name="dummy_photos">3 photos</string>
+    <string name="makanan_rendang"> Rendang</string>
+    <string name="dendeng_balado">Dendeng Balado</string>
+</resources>
